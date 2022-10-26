@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE listacompras SYSTEM "reglalistacompras.dtd">
+
+
+
+
+
+<listacompras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="listacompras.xsd">
+    <venta>
+        <ventacredito>
+            <fechafinpago>2021-12-10</fechafinpago>
+            <cantidad>32535</cantidad>
+        </ventacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>5624</cantidad>
+            <divisa>dolares</divisa>
+        </ventainmediata>
+    </venta>
+    <venta>
+        <ventacredito>
+            <cantidad>56421</cantidad>
+        </ventacredito>
+    </venta>
+</listacompras>
